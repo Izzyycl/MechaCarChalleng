@@ -1,8 +1,8 @@
 # MechaCar_Challenge
 
 ## Linear Regression to Predict MPG
-![Alt Text](Images/linear_regression.png)
-![Alt Text](Images/Summary_mpg.png)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/linear_regression.png?raw=true)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/total_summary.png?raw=true)
 
 The figures above demonstrate a linear regression and statistical data based on an mpg test done on 50 prototype MechaCars. Using the data above we can answer the following questions.
 
