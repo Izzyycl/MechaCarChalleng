@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 ![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/linear_regression.png?raw=true)
-![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/total_summary.png?raw=true)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/Summary_mpg.png?raw=true)
 
 The figures above demonstrate a linear regression and statistical data based on an mpg test done on 50 prototype MechaCars. Using the data above we can answer the following questions.
 
@@ -25,8 +25,8 @@ Based on the data, the multiple R-squared value is 0.71. This means there is a 7
 ## Summary Statistics on Suspension Coils
 
 The figures below demostrate statistical values of suspension coils based on all lots and individual lots
-![Alt Text](Images/total_summary.png)
-![Alt Text](Images/lot_summary.png)
+![This is an image]((https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/total_summary.png?raw=true)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/lot_summary.png?raw=true)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
@@ -44,16 +44,16 @@ Alternate Hypothesis: There is significant difference between the mean PSI of al
 The significance value will be 0.05
 
 Below is the t-test results for all manufacturing lots. The p-value is 0.06. Since the p-value is greater than our 0.05 significance value we fail to reject the null hypothesis.
-![Alt Text](Images/t_test.png)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/t_test.png?raw=true)
 
 Below are the t-test results for individual lots. The p-value for lot 1, 2, and 3 are 1, 0.6, and 0.04, respectively.
 
 Since the p-value for lot 1 and 2 are greater than our 0.05 significance value we fail to reject the null hypothesis.
 
 For lot 3, the p-value is less than our 0.05 significance value therefore we reject the null hypothesis.
-![Alt Text](Images/lot1.png)
-![Alt Text](Images/lot2.png)
-![Alt Text](Images/lot3.png)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/lot1.png?raw=true)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/lot2.png?raw=true)
+![This is an image](https://github.com/Izzyycl/MechaCarChalleng/blob/main/IMAGE/lot3.png?raw=true)
 
 # Study Design: MechaCar vs Competition
 
